@@ -1,4 +1,4 @@
-👋 Hi, I’m @Mohrah91
+👋 Hi, I’m @Mohrah
 - 👀 I’m interested in an Information technology 
 - 🌱 I’m currently learning Swift 
 - 💞️ I’m looking to collaborate on  Apply academy Developer  
